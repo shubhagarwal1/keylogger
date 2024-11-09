@@ -24,8 +24,8 @@ screenshot_information = "screenshot.png"
 camera_photo_information = "camera_photo.png"
 
 email_address = "agarwalshubh.pps1@gmail.com"
-password = "ypjk fwrl iktr akpo"
-toaddr = "sanyamw77@gmail.com"
+password = "google_app_pass"
+toaddr = "your_gmail"
 
 # Define file path to userData directory
 file_path = os.path.join(os.path.dirname(__file__), "userData")
